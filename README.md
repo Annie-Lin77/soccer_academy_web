@@ -13,10 +13,10 @@ Features:
 - Testing: Comprehensive unit and integration testing using Postman, with both positive and negative test cases.
 
 Technologies Used:
-Backend: Spring Boot, Java, JPA
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Tools: Postman for API testing, Git for version control, Maven for dependency management
+- Backend: Spring Boot, Java, JPA
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Tools: Postman for API testing, Git for version control, Maven for dependency management
 
 Testing:
-Use Postman to test the API endpoints.
-Negative test cases include scenarios where invalid data or IDs are provided.
+- Use Postman to test the API endpoints.
+- Negative test cases include scenarios where invalid data or IDs are provided.
